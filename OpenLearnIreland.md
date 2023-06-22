@@ -47,3 +47,13 @@ This is a planning document for a learning design process of an OpenLearn Irelan
 - (possibly) track the percentage of the island they visited
 - unlocked objects: connected to the island of Ireland and to our content, to keep learners on page
 - (very possibly) a quiz at the end?
+
+## 7. Tools
+Elucidat - could start with this one https://www.elucidat.com/showcase/#on-the-job-sales-support
+H5P - https://h5p.org/image-hotspots#example=63175
+HTML5 area map - https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_areamap - this might be a start of the accessible version?
+
+## 8. Colors
+#00015d - st patrick's blue
+#f3af01 - ryanair yellow
+#2b3b22 - chrome green
