@@ -14,3 +14,36 @@ This is a planning document for a learning design process of an OpenLearn Irelan
 - "I'm up for a little game of exploration."
 - "I want to learn about the island of Ireland, its history, and its modern times."
 
+## 3. Rules:
+
+- Users are free to explore all of the island, and all resources
+- Users unlock digital objects after clicking on certain content
+- There are no ways of "getting it wrong" here
+- The interactive serves a purpose when a user a) clicks on an OpenLearn piece or b) clicks on a Course prospectus page
+
+## 4. Gameplay loop:
+
+### Begin
+- Arrive at welcome screen
+- Interact to launch map
+- Move on to explore map
+
+### Explore the interactive
+- Choose an area
+- Choose a "pin"
+- Explore information about the pin
+- Interact to launch content
+- Move to a different area and repeat
+
+### Leave the interactive
+- Tab over to the OpenLearn content and start interacting with page
+
+## 5. Goals for learners
+- Ultimate: arrive at an OpenLearn / Open University page of their choice
+- Intermediate: keep exploring the interactive (and unlocking items)
+- Immediate: explore the next link on the map
+
+## 6. Motivation
+- (possibly) track the percentage of the island they visited
+- unlocked objects: connected to the island of Ireland and to our content, to keep learners on page
+- (very possibly) a quiz at the end?
